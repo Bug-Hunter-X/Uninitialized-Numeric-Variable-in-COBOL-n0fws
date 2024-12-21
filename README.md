@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: using uninitialized numeric variables. The `bug.cob` file shows the erroneous code, which leads to unexpected results due to the use of a default value instead of explicitly initializing the variable.  The `bugSolution.cob` file provides the corrected code with proper initialization.
